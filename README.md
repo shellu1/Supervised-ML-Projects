@@ -5,7 +5,7 @@ Steps implemented in this work:
 Exploratory Data Analysis
   1.	 Importing Libraries
      
-   Libraries used:
+   Libraries used: #sklearn, #imblearn, #pandas, #numpy,  #matplotlib. #seaborn
    
   2.	 Load the Dataset
      
