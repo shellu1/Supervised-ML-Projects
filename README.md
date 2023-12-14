@@ -1,4 +1,5 @@
 Problem Statement: To predict the Loan Default based on Credit Risk Analysis and to decide on the loan approvals and loan extensions.
+
 Steps implemented in this work:
 
 Exploratory Data Analysis
@@ -25,8 +26,13 @@ Exploratory Data Analysis
   10.	Splitting data to train and test
       
 Building ML Models
-  *Models used:  #K Nearest Neighbors Classifier, #Support Vector Classifier,   #Naive Bayes Classifier, #Decision Tree Classifer, #Random Forest Classifier, #Adaboost Classifier
-  *Performance Measures used: #classification_report, #ConfusionMatrixDisplay.
+
+  *Models used:  #K Nearest Neighbors Classifier, #Support Vector Classifier,   #Naive Bayes Classifier, #Decision Tree Classifer,       #Random Forest Classifier, #Adaboost Classifier
+  
+  *Performance Measures used: #classification_report, #ConfusionMatrixDisplay
+  
   *Model Building After Oversampling
+  
   *Model Building After Undersampling
+  
 Prediction Of A New Value
